@@ -38,7 +38,7 @@ export default function Home() {
         <div className="absolute top-0 left-0 right-0 bottom-0 bg-black/40 z-[1]" />
         {/* Background image */}
         <Image
-          src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+          src="https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
           fill
           className="object-cover"
         />
